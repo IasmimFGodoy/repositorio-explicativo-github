@@ -1,7 +1,7 @@
 # Introdução ao GIT
 
 #### GIT é um sistema de versionamento de código distribuído, cujo criador se chama Linus Torvalds
-#### Os sistemas que utlizamos no dia a dia possuem uma interface gráfica, mais conhecida como GUI (Graphic User Interface), porém o git utiliza o que chamamos de CLI(Command Line Interface), ou seja, a forma de interagir com o git é atrav és de linhas de comando.
+#### Os sistemas que utlizamos no dia a dia possuem uma interface gráfica, mais conhecida como GUI (Graphic User Interface), porém o git utiliza o que chamamos de CLI(Command Line Interface), ou seja, a forma de interagir com o git é através de linhas de comando.
 
 ## Tópicos fundamentais sobre GIT
 ### 1) SHA1 - Secure Gash Algorithm

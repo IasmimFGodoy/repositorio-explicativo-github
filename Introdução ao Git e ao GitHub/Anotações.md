@@ -4,7 +4,7 @@
 #### Os sistemas que utlizamos no dia a dia possuem uma interface gráfica, mais conhecida como GUI (Graphic User Interface), porém o git utiliza o que chamamos de CLI(Command Line Interface), ou seja, a forma de interagir com o git é através de linhas de comando.
 
 ## Tópicos fundamentais sobre GIT
-### 1) SHA1 - Secure Gash Algorithm
+### 1) SHA1 - Secure Hash Algorithm
 ####    É um algoritmo de encriptação desenvolvido pela NSA (Agência de segurança dos Estados Unidos) responsável por pegar o arquivo e embaralhar as informações de forma muito específica, essa encriptação gera um conjunto de caracteres indentificadores de 40 dígitos com combinação única. Em poucas palavras, é uma forma curta e segura de representar um arquivo.
 
 ### 2) Objetos fundamentais
